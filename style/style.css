@@ -7,3 +7,8 @@ body {
 head {
     color: black;
 }
+
+.title {
+    font-size: large;
+    color: blue;
+}
